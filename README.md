@@ -261,3 +261,28 @@ In conclude, the study analysed drug crime patterns in South Yorkshire over the 
 
 #### Limitation
 The sample size of a drug crime in South Yorkshire for a year might be small. A number of samples are needed for studies that lack relevant theories and knowledge to be established academically (Malterud, 2016). A more accurate pattern may come out when compared with drug crime data from other parts of the UK or other countries. Data on the type of drugs and the number of crimes committed by a criminal, though not in the data, could also be of great help to this study. Also, it may be good to investigate the drug crime rate along with population information in South Yorkshire. Finally, there is uncertainty in this study by missing values of gender, age range and ethnicity.
+
+### References
+Barkan, S. (2009). The Value of Quantitative Analysis for a Critical Understanding of Crime and Society. Critical Criminology, 17(4), 247-259.
+
+Bennett, T., & Holloway, Katy. (2007). Drug-crime connections (A English studies in criminal science). Cambridge: Cambridge University Press.
+
+Drakulich, K. (2013). Perceptions of the local danger posed by crime: Race, disorder, informal control, and the police. Social Science Research, 42(3), 611-632.
+
+Duff, P. A. (2008). Case study research in applied linguistics. London: Lawrence Erlbaum Associates Taylor & Francis Group.
+
+Howard, W., & Odum. (2015). Two-way scatter plot and the World Databank (2012) : gross domestic product per capita and average life expectancy. Retrieved from https://dx.doi.org/10.4135/9781473937871
+
+Inciardi, J. (1979). Heroin Use and Street Crime. Crime & Delinquency, 25(3), 335-346.
+
+Malterud, K., Siersma, V., & Guassora, A. (2016). Sample Size in Qualitative Interview Studies. Qualitative Health Research, 26(13), 1753-1760. doi: 10.1177/1049732315617444
+
+Marc, B., Baudry, F., Vaquero, P., Zerrouki, L., H. Douceron, S., & Douceron, H. (2000). Sexual assault under benzodiazepine submission in a Paris suburb. Archives of Gynecology and Obstetrics, 263(4), 193-197.
+
+Pandey, R., Srivastava, N., & Verma, K. (2017). Data visualization through R and Azure for scaling machine training sets. 2017 7th International Conference on Communication Systems and Network Technologies (CSNT), 345-349.
+
+Saunders, M., Lewis, P., & Thornhill, A. (2009). Research methods for business students (5th ed.). Harlow: Pearson Education Limited.
+
+Travis L, D., & Daniel, L. (2000). Overrepresentation and Underrepresentation of African Americans and Latinos as Lawbreakers on Television News, Journal of Communication, 50(2), 131–154. https://doi-org.sheffield.idm.oclc.org/10.1111/j.1460-2466.2000.tb02845.x
+
+Welch, K. (2007). Black Criminal Stereotypes and Racial Profiling. Journal of Contemporary Criminal Justice, 23(3), 276–288. https://doi.org/10.1177/1043986207306870  
