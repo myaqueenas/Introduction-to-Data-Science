@@ -39,7 +39,7 @@ Materials and Data Collection
 Crime data can be downloaded from the British Police Dataset. There is a lot of information in this data, such as crime type, date, location, gender, age range, ethnicity and legislation. Among these, the study focuses on gender and age range and ethnicity data, and on relationships with these data and crime patterns. 
 Uses of various functions, including graph creation, text data analysis, and the implementation of machine learning algorithms using various packages in R, is one of R's greatest advantages. (Pandey et al., 2017). If it is not already installed, install using install.package().
  
-
+![Figure1](https://github.com/myaqueenas/Introduction-to-Data-Science/blob/main/Console/1.PNG?raw=true)
 Console 1-1
 
 The Console 1-1 shows the packages to be used. Often, a given data is modified and analysed rather than used as it is. Data can be analysed for purposes only when it is free to process data, such as extracting parts, dividing them by types, or merging multiple data. dplyr is one of the most commonly used packages for data pre-processing and ggplot2 is useful for making graphs. 
