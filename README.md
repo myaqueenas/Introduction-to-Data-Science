@@ -1,5 +1,6 @@
 # Introduction-to-Data-Science
 ## Analysis of drugs crime patterns in South Yorkshire around the past year (December 2018 to November 2019) and a racial stereotype of crime
+#### Youngjin Noh
 
 ### Structured abstract
 Several media outlets have described criminals as coloured people, giving people racial stereotypes (Drakulich, 2013). However, as other studies have shown, there is no apparent link between race and crime (Travis & Daniel, 2000). Also, drug crimes are often associated with a number of other types of crime, making them worthwhile to study (Inciardi, 1979). This study visualizes analysis of drug crime patterns in South Yorkshire over the past year. For example, men recorded more crimes than women, and drug crimes committed by white people were overwhelmingly higher than those committed by coloured people. A surprising fact was found in underage drug crime data. The percentage of drug crimes committed by men and women is about the same, but not a single drug offence committed by female coloured people. The data could help resolve stereotypes about crimes committed by coloured people. However, there may be some uncertainty in the analysis due to missing values in each data. Also, because drug crimes are complicatedly linked to other crimes, they can be studied to reduce drug crimes as well as other crimes
